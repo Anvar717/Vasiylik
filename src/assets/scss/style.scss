@@ -1,0 +1,12 @@
+/*================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.my-border-right{
+    border-right: 2px solid #e0dee7 !important;
+}
+.table thead th, .table tfoot th{
+    text-transform: unset !important;
+}
